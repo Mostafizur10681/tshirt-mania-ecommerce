@@ -6,7 +6,7 @@ import './Header.css'
 const Header = () => {
     return (
         <div>
-            <h1 className='header-title'>Welcome to Our Tshirt Mania Website</h1>
+            <h1 className='header-title'>Welcome to Our Tshirt Mania Website!!!</h1>
 
             <div className='manubar-container'>
                 <div >
