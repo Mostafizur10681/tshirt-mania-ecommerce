@@ -1,0 +1,34 @@
+.header-title {
+    font-size: 40px;
+    color: orange;
+}
+
+.manubar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 60px;
+    background-color: slategrey;
+
+}
+
+.menu-item {
+    display: flex;
+
+}
+
+.menu-name {
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.menu-item-link {
+    color: white;
+    font-size: 20px;
+    margin-right: 25px;
+}
+
+.menu-item-link:hover {
+    color: orange;
+}
