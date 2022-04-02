@@ -5,8 +5,22 @@
     color: white;
 }
 
+.orange {
+    color: orange;
+    font-size: 18px;
+}
 
 .x-button {
     background-color: red;
     margin-left: 5px;
+    padding: 5px 5px;
+    color: white;
+}
+
+.remove-button {
+    background-color: red;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    cursor: pointer;
 }
